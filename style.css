@@ -7,5 +7,12 @@ h1{
  body{ background-color: rgb(100, 24, 27);
 
  }
+ .personagem{
+  width: 20%;
+  height: 50%;
+ }
+ .ini {
+ background-image: url("personagem.jpg");
+ }
 
  
